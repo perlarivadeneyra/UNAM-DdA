@@ -14,7 +14,7 @@ Descripción del programa:
     
     en modo contrario el algoritmo los ordena en modo creciente usando el método de la burbuja.
 
-Limitaciones
+Limitaciones:
 
     La dimensión máxima del vector es de 100 componentes. Si la dimensión dada es más grande,
     
