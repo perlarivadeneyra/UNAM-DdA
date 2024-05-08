@@ -1,14 +1,15 @@
-/* Instrucciones: Después de haber dado lectura a la unidad, realiza lo siguiente:
-3 pts 1-3/05/2024Elabora un programa en lenguaje C en dónde generes una
-sucesión numérica a partir de la siguiente fórmula:
-(𝑛(𝑛 + 1)(2𝑛 + 1))/6
+/* 
+Alumna: Perla Irasema Rivadeneyra García
+Fecha: 7/05/2024
+Actividad: Unidad 5, actividad complementaria 2.
+
+Descripción del programa:
+El programa devuelve una lista de valores de todos los números enteros
+que se calculan hasta el valor dado por el usuario usando la siguiente formula:
+𝑛(𝑛 + 1)(2𝑛 + 1)/6
 Dónde n son números enteros positivos diferentes de cero.
-El programa deberá de mostrar a partir de un número
-ingresado por el usuario los números generados a partir del 1
-hasta el valor ingresado.
-Por ejemplo, si n=4 se debe mostrar:
-Salida = 1, 5, 14, 30
-Emplea las estructuras iterativas que consideres necesarias.*/
+Por ejemplo, si n=4 el programa devuelve: 1, 5, 14, 30
+*/
 
 #include <stdio.h>
 
@@ -45,6 +46,8 @@ int main() {
 
 /*
 Bibliografía: 
-[1] Facultad de Administración y Contaduría (2022). Apunte digital de 
-Diseño de Algoritmos. Universidad Nacional Autónoma de México.s
+[1] Facultad de Administración y Contaduría (2022). "Apunte digital de 
+Diseño de Algoritmos". Universidad Nacional Autónoma de México.
+
+[2] cppreference (2021). "If statement". Retrieved on May 7 from: https://en.cppreference.com/w/c/language/if
 */
