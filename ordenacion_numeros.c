@@ -1,8 +1,16 @@
 /*
+Alumna: Perla Irasema Rivadeneyra García
+Fecha: 10/05/2024
+Actividad: Unidad 6, actividad 3.
+
 Instrucciones: A partir del estudio de la unidad, elabora un programa que cumpla el 
 siguiente objetivo: El programa deberá solicitar al usuario su fecha 
 de nacimiento, con base a los datos del usuario el programa deberá 
 indicar el signo zodiacal del usuario.
+
+Descripción del programa: el programa solicita al usuario 3 valores entre 3 y 15.
+Si los valores dados no se encuentran en este intervalo, el programa devuelve un 
+mensaje de error. El programa devuelve los valores en orden ascendiente usando el método del bubble sorting.
 */
 #include <stdio.h>
 
