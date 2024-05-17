@@ -1,3 +1,14 @@
+/*
+Alumna: Perla Rivadeneyra
+Unidad 6 Actividad Complementaria 2
+
+Instrucciones: A partir del estudio de la unidad, elabora un programa que 
+permita sumar los primeros “n” números pares indicados por el usuario.
+El programa deberá permitir al usuario ingresar un número “n” entero 
+positivo, a partir de dicho número el programa deberá de ir mostrando 
+la suma de los primeros números pares acorde a dicha cifra.
+*/
+
 #include <stdio.h>
 
 int main() {
@@ -22,3 +33,16 @@ int main() {
 
     return 0;
 }
+
+/*
+Bibliografía:
+1. Facultad de Contaduría y Administración (2022). Apunte digital. UNAM.
+
+2. Code With C. (n.d.). Understanding Void Type In C Programming. Recuperado el 17 de mayo de 2024, de https://www.codewithc.com
+
+3. CS Tutorial Point. (n.d.). C Program to Find the Sum of first n even Numbers. Recuperado el 17 de mayo de 2024, de https://www.cstutorialpoint.com
+
+4. Code Vs Color. (n.d.). 3 different C programs to find the sum of first n even natural numbers. Recuperado el 17 de mayo de 2024, de https://www.codevscolor.com
+
+5. Tutorial Gateway. (n.d.). C Program to Print Sum of all Even Numbers from 1 to N. Recuperado el 17 de mayo de 2024, de https://www.tutorialgateway.org
+*/
