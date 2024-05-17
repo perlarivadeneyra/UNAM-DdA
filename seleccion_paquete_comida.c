@@ -9,7 +9,7 @@ podrá seleccionar el que desee de dicho menú. Emplea la estructura Switch para
 #include <stdio.h>
 
 void mostrarMenu() {
-    // Esta función muestra el menú de opciones al usuario.
+    // Esta función muestra el menú de opciones al usuario
     // void se utiliza como tipo de retorno de una función, indica que la función no devuelve ningún valor.
     printf("Menú de Comida Rápida:\n");
     printf("Paquete 1: Hamburguesa, papas fritas y refresco\n");
@@ -42,14 +42,14 @@ void seleccionarPaquete(int opcion) {
 int main() {
     int opcion;
 
-    // Mostrar el menú de opciones al usuario.
+    // Mostrar el menú de opciones al usuario
     mostrarMenu();
 
     // Solicitar al usuario que seleccione una opción.
     printf("Selecciona el número del paquete que deseas: ");
     scanf("%d", &opcion);
 
-    // Llamar a la función para mostrar el paquete seleccionado.
+    // Llamar a la función para mostrar el paquete seleccionado
     seleccionarPaquete(opcion);
 
     return 0;
