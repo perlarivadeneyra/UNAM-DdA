@@ -5,3 +5,4 @@ Ejercicios:
 2. Sucesión
 3. Ordenación números
 4. Selección paquete de comida
+5. Suma números pares
