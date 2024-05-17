@@ -1,4 +1,7 @@
 /*
+Alumna: Perla Rivadeneyra
+Unidad 6 Actividad Complementaria 2
+
 Instrucciones:
 A partir del estudio de la unidad, elabora un Programa que permita a un 
 cliente seleccionar 4 paquetes de comida rápida de tu elección.
